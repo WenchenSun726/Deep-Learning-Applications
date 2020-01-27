@@ -1,4 +1,4 @@
-# # Applications of Deep Learning - Natural Language Understanding: Are Two Sentences of the same Topic
+## Applications of Deep Learning - Natural Language Understanding: Are Two Sentences of the same Topic
 
 This is a project from the course  [T81-855: Applications of Deep Learning at Washington University in St. Louis](https://sites.wustl.edu/jeffheaton/t81-558/). In this competition you are given two sentences. You should determine the likelihood that these two sentences are from the same source.
 
